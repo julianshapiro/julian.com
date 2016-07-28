@@ -112,7 +112,7 @@ function initDiagram(diagram){
   diagram.pulses=[];
   diagram.pulse=function(origin,dest){
     let p=new Pulse(origin,dest);
-    p.speed=(0.03+(Math.random()*0.04))/1.75;
+    p.speed=(0.03+(Math.random()*0.04))/2.25;
     if(diagram.pulses.length<maxPulses){
       origin.lightUp();
       diagram.pulses.push(p);
