@@ -46,7 +46,7 @@ Color.prototype={
 }
 let color={
   // bg:new Color(34,85,170),
-  bg:new Color(32,80,176),
+  bg:new Color(71,125,194),
   fg:new Color(128,198,255),
 }
 let getColor=v=>color.bg.interpolate(color.fg,v).toString();
