@@ -1,459 +1,368 @@
 {
-  "exercises": [
-    {
-      "id": 0,
-      "name": "Incline press",
-      "video": "https://youtu.be/DbFgADa2PL8"
-    },
-    {
-      "id": 1,
-      "name": "Overhead tricep extensions",
-      "video": "http://www.youtube.com"
-    },
-    {
-      "id": 2,
-      "name": "Shoulder side raises",
-      "video": "http://www.youtube.com"
-    },
-    {
-      "id": 3,
-      "name": "Shrugs",
-      "video": "http://www.youtube.com"
-    },
-    {
-      "id": 4,
-      "name": "Bicep curls",
-      "video": "http://www.youtube.com"
-    },
-    {
-      "id": 5,
-      "name": "Goblet squat",
-      "video": "http://www.youtube.com"
-    },
-    {
-      "id": 6,
-      "name": "Pec flies",
-      "video": "http://www.youtube.com"
-    },
-    {
-      "id": 7,
-      "name": "Ab crunches",
-      "video": "http://www.youtube.com"
-    },
-    {
-      "id": 8,
-      "name": "Front shoulder raises",
-      "video": "http://www.youtube.com"
-    },
-    {
-      "id": 9,
-      "name": "Rear shoulder pull",
-      "video": "http://www.youtube.com"
-    },
-    {
-      "id": 10,
-      "name": "Seated rows",
-      "video": "http://www.youtube.com"
-    },
-    {
-      "id": 11,
-      "name": "Hammer curls",
-      "video": "http://www.youtube.com"
-    },
-    {
-      "id": 12,
-      "name": "Close-grip press",
-      "video": "http://www.youtube.com"
-    },
-    {
-      "id": 13,
-      "name": "Romanian deadlift",
-      "video": "http://www.youtube.com"
-    },
-    {
-      "id": 14,
-      "name": "Tricep bar pushdown",
-      "video": "http://www.youtube.com"
-    },
-    {
-      "id": 15,
-      "name": "Squat",
-      "video": "http://www.youtube.com"
-    },
-    {
-      "id": 16,
-      "name": "Oblique bends",
-      "video": "http://www.youtube.com"
-    },
-    {
-      "id": 17,
-      "name": "Forearm Roller",
-      "video": "http://www.youtube.com"
-    },
-    {
-      "id": 18,
-      "name": "Bicep dumbell 1h",
-      "video": "http://www.youtube.com"
-    },
-    {
-      "id": 19,
-      "name": "Rhomboid bar pull",
-      "video": "http://www.youtube.com"
-    },
-    {
-      "id": 20,
-      "name": "Trap raise",
-      "video": "http://www.youtube.com"
-    },
-    {
-      "id": 21,
-      "name": "Hammer pulley curls 2h",
-      "video": "http://www.youtube.com"
-    },
-    {
-      "id": 22,
-      "name": "Seated pull 13d",
-      "video": "http://www.youtube.com"
-    },
-    {
-      "id": 23,
-      "name": "Standing upper raise",
-      "video": "http://www.youtube.com"
-    },
-    {
-      "id": 24,
-      "name": "True incline press",
-      "video": "http://www.youtube.com"
-    },
-    {
-      "id": 25,
-      "name": "Squatted tricep extensions",
-      "video": "http://www.youtube.com"
-    },
-    {
-      "id": 26,
-      "name": "Restriced cable cross",
-      "video": "http://www.youtube.com"
-    },
-    {
-      "id": 27,
-      "name": "Ab crunches",
-      "video": "http://www.youtube.com"
-    },
-    {
-      "id": 28,
-      "name": "Tricep pulldown 1h",
-      "video": "http://www.youtube.com"
-    },
-    {
-      "id": 29,
-      "name": "Military press",
-      "video": "http://www.youtube.com"
-    },
-    {
-      "id": 30,
-      "name": "Hamstring raise",
-      "video": "http://www.youtube.com"
-    },
-    {
-      "id": 31,
-      "name": "Oblique twists",
-      "video": "http://www.youtube.com"
-    }
-  ],
-  "plans": [
-    {
-      "id": 0,
-      "name": "Plan A",
-      "days": [
-        {
-          "id": 0,
-          "name": "1",
-          "exercises": [
-            {
-              "id": 0,
-              "weight": 0,
-              "sets": 3,
-              "unit": "lb"
-            },
-            {
-              "id": 1,
-              "weight": 0,
-              "sets": 3,
-              "unit": "lb"
-            },
-            {
-              "id": 2,
-              "weight": 0,
-              "sets": 3,
-              "unit": "lb"
-            },
-            {
-              "id": 3,
-              "weight": 0,
-              "sets": 3,
-              "unit": "lb"
-            },
-            {
-              "id": 4,
-              "weight": 0,
-              "sets": 4,
-              "unit": "lb"
-            },
-            {
-              "id": 5,
-              "weight": 0,
-              "sets": 3,
-              "unit": "lb"
-            }
-          ]
-        },
-        {
-          "id": 1,
-          "name": "2",
-          "exercises": [
-            {
-              "id": 6,
-              "weight": 0,
-              "sets": 3,
-              "unit": "lb"
-            },
-            {
-              "id": 7,
-              "weight": 0,
-              "sets": 3,
-              "unit": "lb"
-            },
-            {
-              "id": 8,
-              "weight": 0,
-              "sets": 3,
-              "unit": "lb"
-            },
-            {
-              "id": 9,
-              "weight": 0,
-              "sets": 3,
-              "unit": "lb"
-            },
-            {
-              "id": 10,
-              "weight": 0,
-              "sets": 4,
-              "unit": "lb"
-            },
-            {
-              "id": 11,
-              "weight": 0,
-              "sets": 3,
-              "unit": "lb"
-            }
-          ]
-        },
-        {
-          "id": 2,
-          "name": "3",
-          "exercises": [
-            {
-              "id": 12,
-              "weight": 0,
-              "sets": 3,
-              "unit": "lb"
-            },
-            {
-              "id": 13,
-              "weight": 0,
-              "sets": 3,
-              "unit": "lb"
-            },
-            {
-              "id": 14,
-              "weight": 0,
-              "sets": 3,
-              "unit": "lb"
-            },
-            {
-              "id": 15,
-              "weight": 0,
-              "sets": 3,
-              "unit": "lb"
-            },
-            {
-              "id": 16,
-              "weight": 0,
-              "sets": 4,
-              "unit": "lb"
-            },
-            {
-              "id": 17,
-              "weight": 0,
-              "sets": 3,
-              "unit": "lb"
-            }
-          ]
-        }
+	"exercises": [{
+		"id": 0,
+		"name": "Incline press",
+		"video": "https://youtu.be/DbFgADa2PL8"
+	}, {
+		"id": 1,
+		"name": "Overhead tricep extensions",
+		"video": "http://www.youtube.com"
+	}, {
+		"id": 2,
+		"name": "Shoulder side raises",
+		"video": "http://www.youtube.com"
+	}, {
+		"id": 3,
+		"name": "Shrugs",
+		"video": "http://www.youtube.com"
+	}, {
+		"id": 4,
+		"name": "Bicep curls",
+		"video": "http://www.youtube.com"
+	}, {
+		"id": 5,
+		"name": "Goblet squat",
+		"video": "http://www.youtube.com"
+	}, {
+		"id": 6,
+		"name": "Pec flies",
+		"video": "http://www.youtube.com"
+	}, {
+		"id": 7,
+		"name": "Ab crunches",
+		"video": "http://www.youtube.com"
+	}, {
+		"id": 8,
+		"name": "Front shoulder raises",
+		"video": "http://www.youtube.com"
+	}, {
+		"id": 9,
+		"name": "Rear shoulder pull",
+		"video": "http://www.youtube.com"
+	}, {
+		"id": 10,
+		"name": "Seated rows",
+		"video": "http://www.youtube.com"
+	}, {
+		"id": 11,
+		"name": "Hammer curls",
+		"video": "http://www.youtube.com"
+	}, {
+		"id": 12,
+		"name": "Close-grip press",
+		"video": "http://www.youtube.com"
+	}, {
+		"id": 13,
+		"name": "Romanian deadlift",
+		"video": "http://www.youtube.com"
+	}, {
+		"id": 14,
+		"name": "Tricep bar pushdown",
+		"video": "http://www.youtube.com"
+	}, {
+		"id": 15,
+		"name": "Squat",
+		"video": "http://www.youtube.com"
+	}, {
+		"id": 16,
+		"name": "Oblique bends",
+		"video": "http://www.youtube.com"
+	}, {
+		"id": 17,
+		"name": "Forearm Roller",
+		"video": "http://www.youtube.com"
+	}, {
+		"id": 18,
+		"name": "Bicep dumbell 1h",
+		"video": "http://www.youtube.com"
+	}, {
+		"id": 19,
+		"name": "Rhomboid bar pull",
+		"video": "http://www.youtube.com"
+	}, {
+		"id": 20,
+		"name": "Trap raise",
+		"video": "http://www.youtube.com"
+	}, {
+		"id": 21,
+		"name": "Hammer pulley curls 2h",
+		"video": "http://www.youtube.com"
+	}, {
+		"id": 22,
+		"name": "Seated pull 13d",
+		"video": "http://www.youtube.com"
+	}, {
+		"id": 23,
+		"name": "Standing upper raise",
+		"video": "http://www.youtube.com"
+	}, {
+		"id": 24,
+		"name": "True incline press",
+		"video": "http://www.youtube.com"
+	}, {
+		"id": 25,
+		"name": "Squatted tricep extensions",
+		"video": "http://www.youtube.com"
+	}, {
+		"id": 26,
+		"name": "Restriced cable cross",
+		"video": "http://www.youtube.com"
+	}, {
+		"id": 27,
+		"name": "Ab crunches",
+		"video": "http://www.youtube.com"
+	}, {
+		"id": 28,
+		"name": "Tricep pulldown 1h",
+		"video": "http://www.youtube.com"
+	}, {
+		"id": 29,
+		"name": "Military press",
+		"video": "http://www.youtube.com"
+	}, {
+		"id": 30,
+		"name": "Hamstring raise",
+		"video": "http://www.youtube.com"
+	}, {
+		"id": 31,
+		"name": "Oblique twists",
+		"video": "http://www.youtube.com"
+	}],
+	"plans": [{
+		"id": 0,
+		"name": "Plan A",
+		"days": [{
+				"id": 0,
+				"name": "1",
+				"exercises": [{
+					"id": 0,
+					"weight": 0,
+					"sets": 3,
+					"unit": "lb"
+				}, {
+					"id": 1,
+					"weight": 0,
+					"sets": 3,
+					"unit": "lb"
+				}, {
+					"id": 2,
+					"weight": 0,
+					"sets": 3,
+					"unit": "lb"
+				}, {
+					"id": 3,
+					"weight": 0,
+					"sets": 3,
+					"unit": "lb"
+				}, {
+					"id": 4,
+					"weight": 0,
+					"sets": 4,
+					"unit": "lb"
+				}, {
+					"id": 5,
+					"weight": 0,
+					"sets": 3,
+					"unit": "lb"
+				}]
+			}, {
+				"id": 1,
+				"name": "2",
+				"exercises": [{
+					"id": 6,
+					"weight": 0,
+					"sets": 3,
+					"unit": "lb"
+				}, {
+					"id": 7,
+					"weight": 0,
+					"sets": 3,
+					"unit": "lb"
+				}, {
+					"id": 8,
+					"weight": 0,
+					"sets": 3,
+					"unit": "lb"
+				}, {
+					"id": 9,
+					"weight": 0,
+					"sets": 3,
+					"unit": "lb"
+				}, {
+					"id": 10,
+					"weight": 0,
+					"sets": 4,
+					"unit": "lb"
+				}, {
+					"id": 11,
+					"weight": 0,
+					"sets": 3,
+					"unit": "lb"
+				}]
+			}, {
+				"id": 2,
+				"name": "3",
+				"exercises": [{
+					"id": 12,
+					"weight": 0,
+					"sets": 3,
+					"unit": "lb"
+				}, {
+					"id": 13,
+					"weight": 0,
+					"sets": 3,
+					"unit": "lb"
+				}, {
+					"id": 14,
+					"weight": 0,
+					"sets": 3,
+					"unit": "lb"
+				}, {
+					"id": 15,
+					"weight": 0,
+					"sets": 3,
+					"unit": "lb"
+				}, {
+					"id": 16,
+					"weight": 0,
+					"sets": 4,
+					"unit": "lb"
+				}, {
+					"id": 17,
+					"weight": 0,
+					"sets": 3,
+					"unit": "lb"
+				}]
+			}
 
-      ]
-    },
-    {
-      "id": 1,
-      "name": "Plan B",
-      "days": [
-        {
-          "id": 0,
-          "name": "1",
-          "exercises": [
-            {
-              "id": 19,
-              "weight": 0,
-              "sets": 4,
-              "unit": "lb"
-            },
-            {
-              "id": 20,
-              "weight": 0,
-              "sets": 4,
-              "unit": "lb"
-            },
-            {
-              "id": 21,
-              "weight": 0,
-              "sets": 4,
-              "unit": "lb"
-            },
-            {
-              "id": 22,
-              "weight": 0,
-              "sets": 4,
-              "unit": "lb"
-            },
-            {
-              "id": 23,
-              "weight": 0,
-              "sets": 4,
-              "unit": "lb"
-            },
-            {
-              "id": 24,
-              "weight": 0,
-              "sets": 4,
-              "unit": "lb"
-            }
-          ]
-        },
-        {
-          "id": 1,
-          "name": "2",
-          "exercises": [
-            {
-              "id": 25,
-              "weight": 0,
-              "sets": 4,
-              "unit": "lb"
-            },
-            {
-              "id": 26,
-              "weight": 0,
-              "sets": 4,
-              "unit": "lb"
-            },
-            {
-              "id": 27,
-              "weight": 0,
-              "sets": 4,
-              "unit": "lb"
-            },
-            {
-              "id": 15,
-              "weight": 0,
-              "sets": 4,
-              "unit": "lb"
-            },
-            {
-              "id": 8,
-              "weight": 0,
-              "sets": 4,
-              "unit": "lb"
-            },
-            {
-              "id": 28,
-              "weight": 0,
-              "sets": 4,
-              "unit": "lb"
-            }
-          ]
-        },
-        {
-          "id": 2,
-          "name": "3",
-          "exercises": [
-            {
-              "id": 19,
-              "weight": 0,
-              "sets": 4,
-              "unit": "lb"
-            },
-            {
-              "id": 20,
-              "weight": 0,
-              "sets": 4,
-              "unit": "lb"
-            },
-            {
-              "id": 21,
-              "weight": 0,
-              "sets": 4,
-              "unit": "lb"
-            },
-            {
-              "id": 22,
-              "weight": 0,
-              "sets": 4,
-              "unit": "lb"
-            },
-          ]
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "name": "Maintenance",
-      "days": [
-        {
-          "id": 0,
-          "name": "1",
-          "exercises": [
+		]
+	}, {
+		"id": 1,
+		"name": "Plan B",
+		"days": [{
+			"id": 0,
+			"name": "1",
+			"exercises": [{
+				"id": 19,
+				"weight": 0,
+				"sets": 4,
+				"unit": "lb"
+			}, {
+				"id": 20,
+				"weight": 0,
+				"sets": 4,
+				"unit": "lb"
+			}, {
+				"id": 21,
+				"weight": 0,
+				"sets": 4,
+				"unit": "lb"
+			}, {
+				"id": 22,
+				"weight": 0,
+				"sets": 4,
+				"unit": "lb"
+			}, {
+				"id": 23,
+				"weight": 0,
+				"sets": 4,
+				"unit": "lb"
+			}, {
+				"id": 24,
+				"weight": 0,
+				"sets": 4,
+				"unit": "lb"
+			}]
+		}, {
+			"id": 1,
+			"name": "2",
+			"exercises": [{
+				"id": 25,
+				"weight": 0,
+				"sets": 4,
+				"unit": "lb"
+			}, {
+				"id": 26,
+				"weight": 0,
+				"sets": 4,
+				"unit": "lb"
+			}, {
+				"id": 27,
+				"weight": 0,
+				"sets": 4,
+				"unit": "lb"
+			}, {
+				"id": 15,
+				"weight": 0,
+				"sets": 4,
+				"unit": "lb"
+			}, {
+				"id": 8,
+				"weight": 0,
+				"sets": 4,
+				"unit": "lb"
+			}, {
+				"id": 28,
+				"weight": 0,
+				"sets": 4,
+				"unit": "lb"
+			}]
+		}, {
+			"id": 2,
+			"name": "3",
+			"exercises": [{
+				"id": 19,
+				"weight": 0,
+				"sets": 4,
+				"unit": "lb"
+			}, {
+				"id": 20,
+				"weight": 0,
+				"sets": 4,
+				"unit": "lb"
+			}, {
+				"id": 21,
+				"weight": 0,
+				"sets": 4,
+				"unit": "lb"
+			}, {
+				"id": 22,
+				"weight": 0,
+				"sets": 4,
+				"unit": "lb"
+			}]
+		}]
+	}, {
+		"id": 2,
+		"name": "Maintenance",
+		"days": [{
+			"id": 0,
+			"name": "1",
+			"exercises": [
 
-          ]
-        },
-        {
-          "id": 1,
-          "name": "2",
-          "exercises": [
+			]
+		}, {
+			"id": 1,
+			"name": "2",
+			"exercises": [
 
-          ]
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "name": "Maintenance (Women)",
-      "days": [
-        {
-          "id": 0,
-          "name": "1",
-          "exercises": [
+			]
+		}]
+	}, {
+		"id": 3,
+		"name": "Maintenance (Women)",
+		"days": [{
+			"id": 0,
+			"name": "1",
+			"exercises": [
 
-          ]
-        },
-        {
-          "id": 0,
-          "name": "1",
-          "exercises": [
+			]
+		}, {
+			"id": 0,
+			"name": "1",
+			"exercises": [
 
-          ]
-        }
-      ]
-    }
-  ]
+			]
+		}]
+	}]
 }
