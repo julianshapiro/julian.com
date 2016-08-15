@@ -21,7 +21,26 @@
   <canvas width="2880" height="800" style="width: 1440px; height: 400px;"></canvas>
   <script src="rhill-voronoi-core.min.js"></script>
   <script src="delaunay.js"></script>
-  <script src="app.js"></script>
+  <script src="particles.js"></script>
+  <script>
+    Particles(document.querySelector('canvas'),{
+      edgeLightUpSpeed:0.002,
+      edgeFadeSpeed:0.001,
+      edgeLightUpBrightness:0.2,
+      eraseAlpha:0.5,
+      trailSize:25,
+      pulseChance:0.06,
+      maxPulsesPerSpawn:1,
+      maxPulses:10,
+      minVertexRadius:1,
+      minPulseSpeed:0.03/2.25,
+      pulseSpeedVariation:0.04/2.25,
+      vertexRadiusVariation:1,
+      spacing:80,
+      bg:[ 71,125,194 ],
+      fg:[ 128,198,255 ],
+    });
+  </script>
 
 
 </body></html>
