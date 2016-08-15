@@ -1,132 +1,120 @@
 {
 	"exercises": [{
 		"id": 0,
-		"name": "Incline press",
-		"video": "https://youtu.be/DbFgADa2PL8"
+		"name": "Oblique twist",
+		"video": "https://vimeo.com/178079508"
 	}, {
 		"id": 1,
-		"name": "Overhead tricep extensions",
-		"video": "http://www.youtube.com"
+		"name": "Benchpress",
+		"video": "https://vimeo.com/178057019"
 	}, {
 		"id": 2,
-		"name": "Shoulder side raises",
-		"video": "http://www.youtube.com"
+		"name": "Deadlift",
+		"video": "https://vimeo.com/178056325"
 	}, {
 		"id": 3,
-		"name": "Shrugs",
-		"video": "http://www.youtube.com"
+		"name": "Squat",
+		"video": "https://vimeo.com/178056008"
 	}, {
 		"id": 4,
-		"name": "Bicep curls",
-		"video": "http://www.youtube.com"
+		"name": "Tricep pulldown",
+		"video": "https://vimeo.com/178054967"
 	}, {
 		"id": 5,
-		"name": "Goblet squat",
-		"video": "http://www.youtube.com"
+		"name": "Pulley crunch",
+		"video": "https://vimeo.com/178052126"
 	}, {
 		"id": 6,
-		"name": "Pec flies",
-		"video": "http://www.youtube.com"
+		"name": "Floor crunch",
+		"video": "https://vimeo.com/178050912"
 	}, {
 		"id": 7,
-		"name": "Ab crunches",
-		"video": "http://www.youtube.com"
+		"name": "Overhead tricep extension",
+		"video": "https://vimeo.com/178050262"
 	}, {
 		"id": 8,
-		"name": "Front shoulder raises",
-		"video": "http://www.youtube.com"
+		"name": "Dumbbell press",
+		"video": "https://vimeo.com/178048727"
 	}, {
 		"id": 9,
-		"name": "Rear shoulder pull",
-		"video": "http://www.youtube.com"
+		"name": "Forearm curl back",
+		"video": "https://vimeo.com/178047269"
 	}, {
 		"id": 10,
-		"name": "Seated rows",
-		"video": "http://www.youtube.com"
+		"name": "Forearm curl in",
+		"video": "https://vimeo.com/178047269"
 	}, {
 		"id": 11,
-		"name": "Hammer curls",
-		"video": "http://www.youtube.com"
+		"name": "Seated pulley row",
+		"video": "https://vimeo.com/178042607"
 	}, {
 		"id": 12,
-		"name": "Close-grip press",
-		"video": "http://www.youtube.com"
+		"name": "Shrug",
+		"video": "https://vimeo.com/177971664"
 	}, {
 		"id": 13,
-		"name": "Romanian deadlift",
-		"video": "http://www.youtube.com"
+		"name": "Calf raise",
+		"video": "https://vimeo.com/177971348"
 	}, {
 		"id": 14,
-		"name": "Tricep bar pushdown",
-		"video": "http://www.youtube.com"
+		"name": "Dumbbell romanian deadlift",
+		"video": "https://vimeo.com/177971032"
 	}, {
 		"id": 15,
-		"name": "Squat",
-		"video": "http://www.youtube.com"
+		"name": "Forearm curl up",
+		"video": "https://vimeo.com/177970644"
 	}, {
 		"id": 16,
-		"name": "Oblique bends",
-		"video": "http://www.youtube.com"
+		"name": "Dumbbell squat",
+		"video": "https://vimeo.com/177970342"
 	}, {
 		"id": 17,
-		"name": "Forearm Roller",
-		"video": "http://www.youtube.com"
+		"name": "Front raise",
+		"video": "https://vimeo.com/177969758"
 	}, {
 		"id": 18,
-		"name": "Bicep dumbell 1h",
-		"video": "http://www.youtube.com"
+		"name": "Julian tricep extension",
+		"video": "https://vimeo.com/177969524"
 	}, {
 		"id": 19,
-		"name": "Rhomboid bar pull",
-		"video": "http://www.youtube.com"
+		"name": "Bicep curl",
+		"video": "https://vimeo.com/177968823"
 	}, {
 		"id": 20,
-		"name": "Trap raise",
-		"video": "http://www.youtube.com"
+		"name": "Dumbbell incline press",
+		"video": "hhttps://vimeo.com/177967959"
 	}, {
 		"id": 21,
 		"name": "Hammer pulley curls 2h",
-		"video": "http://www.youtube.com"
+		"video": "https://vimeo.com/"
 	}, {
 		"id": 22,
-		"name": "Seated pull 13d",
-		"video": "http://www.youtube.com"
+		"name": "Side raise",
+		"video": "https://vimeo.com/177961354"
 	}, {
 		"id": 23,
-		"name": "Standing upper raise",
-		"video": "http://www.youtube.com"
+		"name": "Hand grippers",
+		"video": "https://vimeo.com/177766222"
 	}, {
 		"id": 24,
-		"name": "True incline press",
-		"video": "http://www.youtube.com"
+		"name": "Dumbbell shoulder press",
+		"video": "https://www.vimeo.com/151248907"
 	}, {
 		"id": 25,
-		"name": "Squatted tricep extensions",
-		"video": "http://www.youtube.com"
+		"name": "Pulley press",
+		"video": "https://vimeo.com/159401717"
 	}, {
 		"id": 26,
-		"name": "Restriced cable cross",
-		"video": "http://www.youtube.com"
+		"name": "Hamstring curl",
+		"video": "https://vimeo.com/164443477"
 	}, {
 		"id": 27,
-		"name": "Ab crunches",
-		"video": "http://www.youtube.com"
+		"name": "Lat pulldown",
+		"video": "https://vimeo.com/164080300"
 	}, {
 		"id": 28,
-		"name": "Tricep pulldown 1h",
-		"video": "http://www.youtube.com"
-	}, {
-		"id": 29,
-		"name": "Military press",
-		"video": "http://www.youtube.com"
-	}, {
-		"id": 30,
-		"name": "Hamstring raise",
-		"video": "http://www.youtube.com"
-	}, {
-		"id": 31,
-		"name": "Oblique twists",
-		"video": "http://www.youtube.com"
+		"name": "Decline crunch",
+		"video": "https://vimeo.com/151511312"
 	}],
 	"plans": [{
 		"id": 0,
@@ -135,41 +123,12 @@
 				"id": 0,
 				"name": "1",
 				"exercises": [{
-					"id": 0,
+					"id": 20,
 					"weight": 0,
 					"sets": 3,
 					"unit": "lb"
 				}, {
-					"id": 1,
-					"weight": 0,
-					"sets": 3,
-					"unit": "lb"
-				}, {
-					"id": 2,
-					"weight": 0,
-					"sets": 3,
-					"unit": "lb"
-				}, {
-					"id": 3,
-					"weight": 0,
-					"sets": 3,
-					"unit": "lb"
-				}, {
-					"id": 4,
-					"weight": 0,
-					"sets": 4,
-					"unit": "lb"
-				}, {
-					"id": 5,
-					"weight": 0,
-					"sets": 3,
-					"unit": "lb"
-				}]
-			}, {
-				"id": 1,
-				"name": "2",
-				"exercises": [{
-					"id": 6,
+					"id": 19,
 					"weight": 0,
 					"sets": 3,
 					"unit": "lb"
@@ -179,46 +138,7 @@
 					"sets": 3,
 					"unit": "lb"
 				}, {
-					"id": 8,
-					"weight": 0,
-					"sets": 3,
-					"unit": "lb"
-				}, {
-					"id": 9,
-					"weight": 0,
-					"sets": 3,
-					"unit": "lb"
-				}, {
-					"id": 10,
-					"weight": 0,
-					"sets": 4,
-					"unit": "lb"
-				}, {
-					"id": 11,
-					"weight": 0,
-					"sets": 3,
-					"unit": "lb"
-				}]
-			}, {
-				"id": 2,
-				"name": "3",
-				"exercises": [{
-					"id": 12,
-					"weight": 0,
-					"sets": 3,
-					"unit": "lb"
-				}, {
-					"id": 13,
-					"weight": 0,
-					"sets": 3,
-					"unit": "lb"
-				}, {
-					"id": 14,
-					"weight": 0,
-					"sets": 3,
-					"unit": "lb"
-				}, {
-					"id": 15,
+					"id": 17,
 					"weight": 0,
 					"sets": 3,
 					"unit": "lb"
@@ -228,13 +148,105 @@
 					"sets": 4,
 					"unit": "lb"
 				}, {
-					"id": 17,
+					"id": 28,
+					"weight": 0,
+					"sets": 3,
+					"unit": "lb"
+				}, {
+					"id": 15,
+					"weight": 0,
+					"sets": 3,
+					"unit": "lb"
+				}, {
+					"id": 23,
+					"weight": 0,
+					"sets": 3,
+					"unit": "lb"
+				}]
+			}, {
+				"id": 1,
+				"name": "2",
+				"exercises": [{
+					"id": 14,
+					"weight": 0,
+					"sets": 3,
+					"unit": "lb"
+				}, {
+					"id": 13,
+					"weight": 0,
+					"sets": 3,
+					"unit": "lb"
+				}, {
+					"id": 12,
+					"weight": 0,
+					"sets": 3,
+					"unit": "lb"
+				}, {
+					"id": 11,
+					"weight": 0,
+					"sets": 3,
+					"unit": "lb"
+				}, {
+					"id": 27,
+					"weight": 0,
+					"sets": 4,
+					"unit": "lb"
+				}, {
+					"id": 24,
+					"weight": 0,
+					"sets": 3,
+					"unit": "lb"
+				}, {
+					"id": 10,
+					"weight": 0,
+					"sets": 4,
+					"unit": "lb"
+				}, {
+					"id": 23,
+					"weight": 0,
+					"sets": 3,
+					"unit": "lb"
+				}]
+			}, {
+				"id": 2,
+				"name": "3",
+				"exercises": [{
+					"id": 8,
+					"weight": 0,
+					"sets": 3,
+					"unit": "lb"
+				}, {
+					"id": 19,
+					"weight": 0,
+					"sets": 3,
+					"unit": "lb"
+				}, {
+					"id": 7,
+					"weight": 0,
+					"sets": 3,
+					"unit": "lb"
+				}, {
+					"id": 16,
+					"weight": 0,
+					"sets": 3,
+					"unit": "lb"
+				}, {
+					"id": 6,
+					"weight": 0,
+					"sets": 4,
+					"unit": "lb"
+				}, {
+					"id": 9,
+					"weight": 0,
+					"sets": 3,
+					"unit": "lb"
+				}, {
+					"id": 23,
 					"weight": 0,
 					"sets": 3,
 					"unit": "lb"
 				}]
 			}
-
 		]
 	}, {
 		"id": 1,
@@ -243,32 +255,32 @@
 			"id": 0,
 			"name": "1",
 			"exercises": [{
-				"id": 19,
+				"id": 1,
+				"weight": 0,
+				"sets": 2,
+				"unit": "lb"
+			}, {
+				"id": 5,
 				"weight": 0,
 				"sets": 4,
 				"unit": "lb"
 			}, {
-				"id": 20,
+				"id": 25,
 				"weight": 0,
 				"sets": 4,
 				"unit": "lb"
 			}, {
-				"id": 21,
+				"id": 28,
 				"weight": 0,
 				"sets": 4,
 				"unit": "lb"
 			}, {
-				"id": 22,
+				"id": 1,
 				"weight": 0,
-				"sets": 4,
+				"sets": 2,
 				"unit": "lb"
 			}, {
-				"id": 23,
-				"weight": 0,
-				"sets": 4,
-				"unit": "lb"
-			}, {
-				"id": 24,
+				"id": 17,
 				"weight": 0,
 				"sets": 4,
 				"unit": "lb"
@@ -277,12 +289,46 @@
 			"id": 1,
 			"name": "2",
 			"exercises": [{
-				"id": 25,
+				"id": 3,
+				"weight": 0,
+				"sets": 4,
+				"unit": "lb"
+			}, {
+				"id": 0,
+				"weight": 0,
+				"sets": 4,
+				"unit": "lb"
+			}, {
+				"id": 12,
+				"weight": 0,
+				"sets": 4,
+				"unit": "lb"
+			}, {
+				"id": 13,
 				"weight": 0,
 				"sets": 4,
 				"unit": "lb"
 			}, {
 				"id": 26,
+				"weight": 0,
+				"sets": 3,
+				"unit": "lb"
+			}, {
+				"id": 2,
+				"weight": 0,
+				"sets": 4,
+				"unit": "lb"
+			}, {
+				"id": 10,
+				"weight": 0,
+				"sets": 4,
+				"unit": "lb"
+			}]
+		}, {
+			"id": 2,
+			"name": "3",
+			"exercises": [{
+				"id": 11,
 				"weight": 0,
 				"sets": 4,
 				"unit": "lb"
@@ -292,41 +338,32 @@
 				"sets": 4,
 				"unit": "lb"
 			}, {
+				"id": 18,
+				"weight": 0,
+				"sets": 2,
+				"unit": "lb"
+			}, {
+				"id": 19,
+				"weight": 0,
+				"sets": 2,
+				"unit": "lb"
+			}, {
+				"id": 18,
+				"weight": 0,
+				"sets": 2,
+				"unit": "lb"
+			}, {
 				"id": 15,
 				"weight": 0,
 				"sets": 4,
 				"unit": "lb"
 			}, {
-				"id": 8,
-				"weight": 0,
-				"sets": 4,
-				"unit": "lb"
-			}, {
-				"id": 28,
-				"weight": 0,
-				"sets": 4,
-				"unit": "lb"
-			}]
-		}, {
-			"id": 2,
-			"name": "3",
-			"exercises": [{
 				"id": 19,
 				"weight": 0,
-				"sets": 4,
+				"sets": 2,
 				"unit": "lb"
 			}, {
-				"id": 20,
-				"weight": 0,
-				"sets": 4,
-				"unit": "lb"
-			}, {
-				"id": 21,
-				"weight": 0,
-				"sets": 4,
-				"unit": "lb"
-			}, {
-				"id": 22,
+				"id": 9,
 				"weight": 0,
 				"sets": 4,
 				"unit": "lb"
@@ -338,15 +375,76 @@
 		"days": [{
 			"id": 0,
 			"name": "1",
-			"exercises": [
-
-			]
+			"exercises": [{
+				"id": 1,
+				"weight": 0,
+				"sets": 2,
+				"unit": "lb"
+			}, {
+				"id": 12,
+				"weight": 0,
+				"sets": 2,
+				"unit": "lb"
+			}, {
+				"id": 3,
+				"weight": 0,
+				"sets": 2,
+				"unit": "lb"
+			}, {
+				"id": 27,
+				"weight": 0,
+				"sets": 2,
+				"unit": "lb"
+			}, {
+				"id": 13,
+				"weight": 0,
+				"sets": 2,
+				"unit": "lb"
+			}, {
+				"id": 25,
+				"weight": 0,
+				"sets": 2,
+				"unit": "lb"
+			}, {
+				"id": 18,
+				"weight": 0,
+				"sets": 2,
+				"unit": "lb"
+			}]
 		}, {
 			"id": 1,
 			"name": "2",
-			"exercises": [
-
-			]
+			"exercises": [{
+				"id": 2,
+				"weight": 0,
+				"sets": 2,
+				"unit": "lb"
+			}, {
+				"id": 5,
+				"weight": 0,
+				"sets": 2,
+				"unit": "lb"
+			}, {
+				"id": 11,
+				"weight": 0,
+				"sets": 2,
+				"unit": "lb"
+			}, {
+				"id": 0,
+				"weight": 0,
+				"sets": 2,
+				"unit": "lb"
+			}, {
+				"id": 28,
+				"weight": 0,
+				"sets": 2,
+				"unit": "lb"
+			}, {
+				"id": 19,
+				"weight": 0,
+				"sets": 2,
+				"unit": "lb"
+			}]
 		}]
 	}, {
 		"id": 3,
@@ -354,15 +452,47 @@
 		"days": [{
 			"id": 0,
 			"name": "1",
-			"exercises": [
-
-			]
-		}, {
-			"id": 0,
-			"name": "1",
-			"exercises": [
-
-			]
+			"exercises": [{
+				"id": 3,
+				"weight": 0,
+				"sets": 2,
+				"unit": "lb"
+			}, {
+				"id": 18,
+				"weight": 0,
+				"sets": 2,
+				"unit": "lb"
+			}, {
+				"id": 2,
+				"weight": 0,
+				"sets": 2,
+				"unit": "lb"
+			}, {
+				"id": 5,
+				"weight": 0,
+				"sets": 2,
+				"unit": "lb"
+			}, {
+				"id": 11,
+				"weight": 0,
+				"sets": 2,
+				"unit": "lb"
+			}, {
+				"id": 0,
+				"weight": 0,
+				"sets": 2,
+				"unit": "lb"
+			}, {
+				"id": 28,
+				"weight": 0,
+				"sets": 2,
+				"unit": "lb"
+			}, {
+				"id": 19,
+				"weight": 0,
+				"sets": 2,
+				"unit": "lb"
+			}]
 		}]
 	}]
 }
