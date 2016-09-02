@@ -57,6 +57,7 @@
           height:options.height+options.paddingTop+options.paddingBottom,
         }
         canvas.style.width=canvasSize.width+'px';
+        canvas.style.opacity=options.opacity;
         canvas.style.height=canvasSize.height+'px';
         canvas.setAttribute('width',canvasSize.width*dpi);
         canvas.setAttribute('height',canvasSize.height*dpi);
