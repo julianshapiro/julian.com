@@ -145,7 +145,7 @@
 				}, {
 					"id": 16,
 					"weight": 0,
-					"sets": 4,
+					"sets": 3,
 					"unit": "lb"
 				}, {
 					"id": 28,
@@ -189,7 +189,7 @@
 				}, {
 					"id": 27,
 					"weight": 0,
-					"sets": 4,
+					"sets": 3,
 					"unit": "lb"
 				}, {
 					"id": 24,
@@ -199,7 +199,7 @@
 				}, {
 					"id": 10,
 					"weight": 0,
-					"sets": 4,
+					"sets": 3,
 					"unit": "lb"
 				}, {
 					"id": 23,
@@ -233,7 +233,7 @@
 				}, {
 					"id": 6,
 					"weight": 0,
-					"sets": 4,
+					"sets": 3,
 					"unit": "lb"
 				}, {
 					"id": 9,
