@@ -505,7 +505,7 @@ Particles(document.getElementById('header_canvas'),{
       pulseSpeedVariation:0.04/2.25,
       vertexRadiusVariation:1,
       spacing:80,
-      bg:[ 71,125,194 ],
+      bg:[ 255,255,255 ],
       fg:[ 128,198,255 ],
     });
     attachLightning({
